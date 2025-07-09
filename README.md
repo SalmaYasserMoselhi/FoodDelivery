@@ -120,15 +120,6 @@ After running `npm start`, you should see:
 ```bash
 # Start development server (default port 3000)
 npm start
-
-# Build for production
-npm run build
-
-# Run tests
-npm test
-
-# Eject from Create React App (⚠️ irreversible)
-npm run eject
 ```
 
 ### 🚨 Troubleshooting
