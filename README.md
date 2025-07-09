@@ -307,14 +307,6 @@ The application is fully responsive and optimized for:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Support
-
-For support, email [your-email@example.com] or create an issue in the repository.
-
 ## 🔮 Future Enhancements
 
 - Payment gateway integration
